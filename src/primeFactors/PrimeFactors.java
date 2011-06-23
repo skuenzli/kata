@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * PrimeFactors is responsible for
+ * PrimeFactors is responsible for finding the prime factors of arbitrary numbers.
  *
  * @author skuenzli
  */
